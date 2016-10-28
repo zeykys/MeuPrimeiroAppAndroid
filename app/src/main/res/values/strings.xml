@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Extrato</string>
+    <string name="edit_message">Periodo</string>
+    <string name="edit_message2">Conta</string>
+    <string name="edit_message3">Agência</string>
+    <string name="button_send">Consultar</string>
+
+
+</resources>
